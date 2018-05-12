@@ -1,0 +1,33 @@
+_repo: The-Mide-wiwin-or--Grand-Medicine-Society--of-the-OjibwaGovernment-Printing-Office-Washington__19368
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffman, Walter James
+    birthdate: 1846
+    deathdate: 1899
+    gutenberg_agent_id: '8620'
+    url: http://www.gutenberg.org/2009/agents/8620
+description: ''
+gutenberg_bookshelf: Paganism
+gutenberg_issued: '2006-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ojibwa Indians -- Societies, etc.'
+- !lcc 'E011'
+- !lcsh 'Midéwiwin'
+- !lcsh 'Ojibwa Indians -- Religion'
+- !lcsh 'Ojibwa Indians -- Rites and ceremonies'
+- !lcsh 'Secret societies -- North America'
+title: "The Mide'wiwin or \"Grand Medicine Society\" of the Ojibwa\r\nSeventh Annual\
+  \ Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution,\
+  \ 1885-1886, Government Printing Office, Washington, 1891, pages 143-300"
+url: http://www.gutenberg.org/ebooks/19368
